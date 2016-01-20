@@ -3,4 +3,4 @@
     git add .
     git commit -m$now
     echo "Archivos actualizados al "$now
-    #git pull
+    git pull
